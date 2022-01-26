@@ -790,4 +790,10 @@
         "TODO: Fill out other builds.": {
         }
     }
+    "BSD": {
+	"FreeBSD": {
+	    "FreeBSD 1.0": "https://ipfs.io/ipfs/QmVuyN2ff1dP4dBXogCF7j8U8RqoVpdB23XnHKHGDDtVoq/FreeBSD%201.0.7z"
+        }
+    }
+
 }
